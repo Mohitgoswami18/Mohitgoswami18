@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohit Goswami</h1>
+<h3 align="center">Curious Mind | Learning DSA & Web Development | Exploring Real-World Projects</h3>
 
-<!--
-**Mohitgoswami18/Mohitgoswami18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🎓 I'm currently pursuing **B.Tech in AIML (Artificial Intelligence & Machine Learning)**
+- 💻 I have experience in **C++, Python, HTML, CSS, JavaScript, React, Node.js**
+- 🚀 I’m currently working on **DSA Logic Building** and **Full-Stack Web Development**
+- 🎯 My goal is to become a **Good Developer**
+- 🌱 I’m currently learning **Express.js**, **MongoDB**, and preparing for **Internships**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,nodejs,react,tailwind,git,github,vscode,framermotion)
+
+---
+
+### 🏆 Achievements
+- ✅ Solved 250+ questions on LeetCode
+- ✅ Completed DSA in C++ (GFG)
+- ✅ Python Certified (HackerRank)
+- ✅ Attended a Hackathon (Dev Gathering 2k25), Project: **Money-Mentor-AI**
+- 🎒 Conpleted GFG 160 Days of Code Challenge (Got GFG Bag!)
+
+---
+
+### 📌 Pinned Repositories
+
+- [🔗 frontEnd-basic-Projects](https://github.com/mohitgoswami18/Basic-Frontend-Project) – Basic Frontend project for practise
+- [🔗 Personal-PortFolio](https://github.com/mohitgoswami18/Personal-PortFolio) – Personal Portfolio website (hosted on vercel)
+- [🔗 Graph-Library](https://github.com/mohitgoswami18/Graph-Library) – Implemented a graph library in c++
+- [🔗 MoneyMentorAI](https://github.com/mohitgoswami18/MoneyMentorAI) – FinTech Project (Group project for Hackathon)
+
+---
+
+### 📫 Let’s Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/mohitgoswami18)
+- 💻 [GitHub](https://github.com/mohitgoswami18)
+- 📩 Email: `mohitgoswami18326@gmail.com`
+
+---
+
+<p align="center">Thanks for visiting! 🚀</p>
