@@ -36,6 +36,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitgoswami18&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgoswami18&theme=radical" alt="GitHub streak"/>
+</p>
+
+
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/mohitgoswami18)
 - 💻 [GitHub](https://github.com/mohitgoswami18)
