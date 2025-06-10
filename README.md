@@ -14,7 +14,7 @@
 
 ### 🔧 Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,nodejs,react,tailwind,git,github,vscode,framermotion)
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,tailwind,framer,nodejs,npm,vite,vercel,git,github,vscode)
 
 ---
 
@@ -35,12 +35,6 @@
 - [🔗 MoneyMentorAI](https://github.com/mohitgoswami18/MoneyMentorAI) – FinTech Project (Group project for Hackathon)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitgoswami18&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgoswami18&theme=radical" alt="GitHub streak"/>
-</p>
 
 
 ### 📫 Let’s Connect!
