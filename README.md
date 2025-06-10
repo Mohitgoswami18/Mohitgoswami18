@@ -14,8 +14,7 @@
 
 ### 🔧 Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,js,html,css,react,tailwind,nodejs)
-![Tools](https://skillicons.dev/icons?i=npm,framer,vite,vercel,npm,git,github,vscode)
+![Languages](https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,tailwind,git,github,npm,vscode,vite,vercel)
 
 ---
 
