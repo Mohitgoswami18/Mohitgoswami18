@@ -14,24 +14,10 @@
 
 ![Languages](https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,tailwind,git,github,npm,vscode,vite,vercel)
 
----
 
-## Profile Views
-![](https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue)
-
-![](https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue)
-
-
-
-### 📌 Pinned Repositories
-
-- [🔗 frontEnd-basic-Projects](https://github.com/mohitgoswami18/Basic-Frontend-Project) – Basic Frontend project for practise
-- [🔗 Personal-PortFolio](https://github.com/mohitgoswami18/Personal-PortFolio) – Personal Portfolio website (hosted on vercel)
-- [🔗 Graph-Library](https://github.com/mohitgoswami18/Graph-Library) – Implemented a graph library in c++
-- [🔗 MoneyMentorAI](https://github.com/mohitgoswami18/MoneyMentorAI) – FinTech Project (Group project for Hackathon)
-
----
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue" alt="Profile Views" width = "200" />
+</p>
 
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/mohitgoswami18)
