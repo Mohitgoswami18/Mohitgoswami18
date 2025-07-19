@@ -6,9 +6,7 @@
 ### 💡 About Me
 - 🎓 I'm currently pursuing **B.Tech in AIML (Artificial Intelligence & Machine Learning)**
 - 💻 I have experience in **C++, Python, HTML, CSS, JavaScript, React, Node.js**
-- 🚀 I’m currently working on **DSA Logic Building** and **Full-Stack Web Development**
-- 🎯 My goal is to become a **Good Developer**
-- 🌱 I’m currently learning **Express.js**, **MongoDB**, and preparing for **Internships**
+- 🚀 I’m currently working on **bigObuddy an chrome extension for ...💻**
 
 ---
 
@@ -18,14 +16,12 @@
 
 ---
 
-### 🏆 Achievements
-- ✅ Solved 250+ questions on LeetCode
-- ✅ Completed DSA in C++ (GFG)
-- ✅ Python Certified (HackerRank)
-- ✅ Attended a Hackathon (Dev Gathering 2k25), Project: **Money-Mentor-AI**
-- 🎒 Conpleted GFG 160 Days of Code Challenge (Got GFG Bag!)
+## Profile Views
+![](https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue)
 
----
+![](https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue)
+
+
 
 ### 📌 Pinned Repositories
 
