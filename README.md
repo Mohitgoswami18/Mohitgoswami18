@@ -6,18 +6,25 @@
 ### 💡 About Me
 - 🎓 I'm currently pursuing **B.Tech in AIML (Artificial Intelligence & Machine Learning)**
 - 💻 I have experience in **C++, Python, HTML, CSS, JavaScript, React, Node.js**
-- 🚀 I’m currently working on **bigObuddy an chrome extension for ...💻**
+- 🚀 I’m currently working on **BigO Buddy — a Chrome extension for competitive programmers**
+
 
 ---
 
 ### 🔧 Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,tailwind,git,github,npm,vscode,vite,vercel)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,tailwind,js,nodejs,react,express,mongodb,git,github,npm,vscode,vite,vercel" />
+</p>
+
+
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue" alt="Profile Views" width = "200" />
+  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue" alt="Profile Views" width="200" />
 </p>
+
+---
 
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/mohitgoswami18)
