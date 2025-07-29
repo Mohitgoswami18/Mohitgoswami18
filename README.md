@@ -8,18 +8,46 @@
 - 💻 I have experience in **C++, Python, HTML, CSS, JavaScript, React, Node.js**
 - Connecting and growing with same minded peoples
 
+### Social Links
+<a href="https://x.com/@Mohit_Goswami18" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" width="104" height = "29"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohitgoswami18/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discordapp.com/users/blunder_maker" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="mailto:mohitgoswami18326@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ---
 
 ### 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,tailwind,js,nodejs,react,express,mongodb,git,github,npm,vscode,vite,vercel" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue" alt="Profile Views" width="200" />
-</p>
+<div display="flex" flex="wrap" alignitem="center">
+<img src="https://skillicons.dev/icons?i=c" alt="c" />
+<img src="https://skillicons.dev/icons?i=cpp" alt="c++" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=redux" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+</div>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&color=blue" alt="Profile Views" width="200" />
 
 ---
 
@@ -45,13 +73,6 @@
   <br>
   <sub><b>Tech Stack:</b>Reactjs, nodejs, tailwindcss, expressjs</sub>
 </p>
-
----
-
-### 📫 Let’s Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/mohitgoswami18)
-- 💻 [GitHub](https://github.com/mohitgoswami18)
-- 📩 Email: `mohitgoswami18326@gmail.com`
 
 ---
 
