@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
 <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=redux" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=redux" alt="redux" />
 <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
 </div>
 <br><br>
@@ -53,27 +53,23 @@
 
 ### 🌱 I'm Currently Working On
 <p align="left">
-  <strong>🚀 bigObuddy</strong> - A chrome extension that assists leetcoders
-  <br>
-  <a href="https://github.com/in/mohitgoswami18/bigObuddy" target="_blank">
+  <strong>🚀 AlgoSprint</strong> - A Gamified learning platform providing seamless experience for learing and competing with friends.
+  <br><br>
+  <a href="https://github.com/Mohitgoswami18/AlgoSprint.git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
   <br>
-  <sub><b>Tech Stack:</b> React, Tailwind CSS</sub>
+  <sub><b>Tech Stack: <br> </b>Frontend: react, tailwindcss, monacco editor
+  <br> 
+    Backend: Nodejs, express, socket.io
+    <br> 
+    Database:  mongodb, mongoose
+<br>
+    Api: REST api, judge0 Api
+  <br> Authentication: react oAuth/ JWT tokens
+  </sub>
 </p>
 <hr>
 
-<p align="left">
-  <h4> Side project</h4>
-  <strong>🔧 404 - Not Human</strong> - A Personalised chat bot that behaves as your friend and remains by your side for silly talks.
-  <br>
-  <a href="https://github.com/in/mohitgoswami18/404-NotHuman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
-  </a>
-  <br>
-  <sub><b>Tech Stack:</b>Reactjs, nodejs, tailwindcss, expressjs</sub>
-</p>
-
----
 
 <p align="center">Thanks for visiting! 🚀</p>
