@@ -53,20 +53,20 @@
 
 ### 🌱 I'm Currently Working On
 <p align="left">
-  <strong>🚀 AlgoSprint</strong> - A Gamified learning platform providing seamless experience for learing and competing with friends.
+  <strong>Vyom</strong> - A AI agent that helps to automate the boring applying process in internships
   <br><br>
-  <a href="https://github.com/Mohitgoswami18/AlgoSprint.git" target="_blank">
+  <a href="https://github.com/Mohitgoswami18/Vyom.git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
   <br>
-  <sub><b>Tech Stack: <br> </b>Frontend: react, tailwindcss, monacco editor
+  <sub><b>Tech Stack: <br> </b>Frontend: react, tailwindcss, shadcn UI
   <br> 
-    Backend: Nodejs, express, socket.io
+    Backend: Nodejs, express, Fast API
     <br> 
     Database:  mongodb, mongoose
 <br>
-    Api: REST api, judge0 Api
-  <br> Authentication: react oAuth/ JWT tokens
+    Api: REST api,
+  <br> Authentication: Clerk
   </sub>
 </p>
 <hr>
