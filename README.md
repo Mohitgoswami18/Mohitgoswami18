@@ -86,7 +86,9 @@ Vyom is an AI-powered agent that reads job listings, fills applications, and per
 **Frontend**
 
 ![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=next)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
@@ -106,6 +108,7 @@ Vyom is an AI-powered agent that reads job listings, fills applications, and per
 ![C](https://skillicons.dev/icons?i=c)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Npm](https://skillicons.dev/icons?i=npm)
 
 ---
 
