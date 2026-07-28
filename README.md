@@ -115,8 +115,7 @@ Vyom is an AI-powered agent that reads job listings, fills applications, and per
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohitgoswami18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitgoswami18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
