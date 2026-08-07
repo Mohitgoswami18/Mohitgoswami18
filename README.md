@@ -1,5 +1,9 @@
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=140&section=header&text=Mohit%20Goswami&fontSize=42&fontColor=ffffff&fontAlignY=62&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Tools&descSize=17&descAlignY=80&descColor=a0c4ff" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,2,20,24&text=Mohit%20Goswami&fontSize=42&fontColor=ffffff&fontAlignY=62&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Tools&descSize=17&descAlignY=80&descColor=a0c4ff0"
+/>
+<br>
 
 <!-- TYPING SUBTITLE -->
 <p align="center">
@@ -7,10 +11,14 @@
 </p>
 
 <!-- OPEN TO WORK + PROFILE VIEWS -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20Roles-brightgreen?style=for-the-badge&logo=googlemeet&logoColor=white" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://github.com/mohitgoswami18?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohitgoswami18?label=Followers&style=for-the-badge&logo=github&color=0D91E1&labelColor=1A1B27" alt="Followers" />
+  </a>
+  <a href="https://github.com/mohitgoswami18">
+    <img src="https://komarev.com/ghpvc/?username=mohitgoswami18&style=for-the-badge&color=0D91E1&labelColor=1A1B27&label=Profile+Views" alt="Profile Views" />
+  </a>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -31,17 +39,24 @@
 
 <br>
 
----
+<h2 align="center">👋 About Me</h2>
+<p>I'm a full-stack developer (MERN) pursuing B.Tech in AIML — sitting at the intersection of building things fast and making them smart. I write clean production code, think in systems, and I'm genuinely interested in problems worth solving.</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <ul>
+        <li>🛠 Building **Vyom** — an AI agent that automates the internship & job application grind</li>
+        <li>🧠 Solid in **DSA with C++** — I don't just use tools, I understand what's under them </li>
+        <li>🌐 Comfortable across the full stack: React UI → Node APIs → MongoDB schemas</li>
+        <li>📡 **Available for remote roles** — SWE, full-stack, or AI-adjacent products</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github.com/Mohitgoswami18.png" width="85%" style="border-radius: 50%;" alt="Mohit Goswami" />
+    </td>
+  </tr>
+</table>
 
-## 👋 About Me
-
-I'm a full-stack developer (MERN) pursuing B.Tech in AIML — sitting at the intersection of building things fast and making them smart. I write clean production code, think in systems, and I'm genuinely interested in problems worth solving.
-
-- 🛠 Building **Vyom** — an AI agent that automates the internship & job application grind
-- 🧠 Solid in **DSA with C++** — I don't just use tools, I understand what's under them
-- 🌐 Comfortable across the full stack: React UI → Node APIs → MongoDB schemas
-- 🤖 Integrating ML/AI concepts into real products, not just notebooks
-- 📡 **Available for remote roles** — SWE, full-stack, or AI-adjacent products
 
 <p align="left">
   <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack-61DAFB?style=flat-square&logo=react&logoColor=white" />
@@ -50,9 +65,37 @@ I'm a full-stack developer (MERN) pursuing B.Tech in AIML — sitting at the int
   <img src="https://img.shields.io/badge/Remote-Available-success?style=flat-square" />
 </p>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,npm,react,tailwind,html,css,js,mongodb,mysql,postgres,vercel,postman,express,,,,,nodejs,pytorch,sklearn,git,github,vite,vscode&theme=dark" alt="Tech Stack" />
+</p>
+<br/>
 
-## 🚀 What I'm Building
+<h2 align="center">🔥 GitHub Streak &amp; Activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mohitgoswami18&theme=dark&hide_border=true&background=00000000&ring=blue&fire=red&currStreakLabel=blue" alt="GitHub Streak Stats" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitgoswami18&theme=tokyo-night&hide_border=true&area=true&hide_title=false" />
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Mohitgoswami18/Mohitgoswami18/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/Mohitgoswami18/Mohitgoswami18/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<h2 align="center">🚀 What I'm Building</h2>
 
 ### [Vyom](https://github.com/Mohitgoswami18/Vyom) — AI Job Application Agent
 
@@ -75,66 +118,6 @@ Vyom is an AI-powered agent that reads job listings, fills applications, and per
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 
-<a href="https://github.com/Mohitgoswami18/Vyom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitgoswami18&repo=Vyom&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-## 🔧 Tech Stack
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react)
-![Next](https://skillicons.dev/icons?i=next)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Vite](https://skillicons.dev/icons?i=vite)
-
-**Backend & Databases**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=python)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-**Languages & Tools**
-
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Npm](https://skillicons.dev/icons?i=npm)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohitgoswami18&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohitgoswami18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitgoswami18&theme=tokyo-night&hide_border=true&area=true&hide_title=false" />
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohitgoswami18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" />
-</p>
-
----
 
 ## 💬 Dev Quote
 
@@ -144,24 +127,20 @@ Vyom is an AI-powered agent that reads job listings, fills applications, and per
 
 ---
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohitgoswami18/Mohitgoswami18/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohitgoswami18/Mohitgoswami18/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mohitgoswami18/Mohitgoswami18/output/github-contribution-grid-snake.svg" />
-</picture>
+<h2 align="center">🤝 Connect with Me</h2>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/mohitgoswami18" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_mohit_goswami_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:mohitgoswami18326@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## 📬 Let's Talk
-
-I'm actively looking for **remote roles** in full-stack development or software engineering — at startups or product companies that move fast and build things that matter.
-
-**→ [mohitgoswami18326@gmail.com](mailto:mohitgoswami18326@gmail.com)**
-**→ [linkedin.com/in/mohitgoswami18](https://www.linkedin.com/in/mohitgoswami18/)**
-
----
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1a2e&height=90&section=footer" />
+<img width="100%" alt="footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=150&section=footer" 
+/>
